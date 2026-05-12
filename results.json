@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1",
+    "review": "Этот шоколад — просто вкуснятина",
+    "sentiment": "positive",
+    "topic": "Шоколад"
+  },
+  {
+    "id": "2",
+    "review": "Печенье было слишком сладким",
+    "sentiment": "negative",
+    "topic": "качество продукта"
+  },
+  {
+    "id": "3",
+    "review": "Очень понравился вкус этого сока",
+    "sentiment": "positive",
+    "topic": "вкус сока"
+  },
+  {
+    "id": "4",
+    "review": "Молоко с кислинкой",
+    "sentiment": "neutral",
+    "topic": "продукт питания"
+  },
+  {
+    "id": "5",
+    "review": "Приятный запах",
+    "sentiment": "positive",
+    "topic": "Запах"
+  },
+  {
+    "id": "6",
+    "review": "Вкусный и полезный йогурт",
+    "sentiment": "positive",
+    "topic": "йогурт"
+  },
+  {
+    "id": "7",
+    "review": "Не понравился консервированный горошек",
+    "sentiment": "negative",
+    "topic": "продукт питания"
+  },
+  {
+    "id": "8",
+    "review": "Бананы спелые и сладкие",
+    "sentiment": "positive",
+    "topic": "качество бананов"
+  },
+  {
+    "id": "9",
+    "review": "Очень острый кетчуп",
+    "sentiment": "positive",
+    "topic": "кетчуп"
+  },
+  {
+    "id": "10",
+    "review": "Чай вкусный",
+    "sentiment": "positive",
+    "topic": "Чай"
+  },
+  {
+    "id": "11",
+    "review": "Печенье идеально хрустящее и не слишком сладкое",
+    "sentiment": "positive",
+    "topic": "Печенье"
+  },
+  {
+    "id": "12",
+    "review": "Очень мягкое и вкусное мясо",
+    "sentiment": "positive",
+    "topic": "качество мяса"
+  },
+  {
+    "id": "13",
+    "review": "Жевательные конфеты не такие вкусные",
+    "sentiment": "negative",
+    "topic": "Жевательные конфеты"
+  },
+  {
+    "id": "14",
+    "review": "Вода чистая и свежая",
+    "sentiment": "positive",
+    "topic": "качество воды"
+  },
+  {
+    "id": "15",
+    "review": "Очень кислая гранола",
+    "sentiment": "negative",
+    "topic": "гранола"
+  },
+  {
+    "id": "16",
+    "review": "Кофе — просто отличный",
+    "sentiment": "positive",
+    "topic": "кофе"
+  },
+  {
+    "id": "17",
+    "review": "Суп слишком соленый",
+    "sentiment": "negative",
+    "topic": "качество еды"
+  },
+  {
+    "id": "18",
+    "review": "Мороженое супер вкусное",
+    "sentiment": "positive",
+    "topic": "Мороженое"
+  },
+  {
+    "id": "19",
+    "review": "Огурцы такие свежие и хрустящие",
+    "sentiment": "positive",
+    "topic": "качество продукции"
+  },
+  {
+    "id": "20",
+    "review": "Кофе слишком крепкий",
+    "sentiment": "negative",
+    "topic": "качество кофе"
+  },
+  {
+    "id": "21",
+    "review": "Пирог оказался слишком жирным",
+    "sentiment": "negative",
+    "topic": "качество еды"
+  },
+  {
+    "id": "22",
+    "review": "Фрукты свежие",
+    "sentiment": "positive",
+    "topic": "качество фруктов"
+  },
+  {
+    "id": "23",
+    "review": "Этот соус идеально подходит к пасте",
+    "sentiment": "positive",
+    "topic": "еда"
+  },
+  {
+    "id": "24",
+    "review": "Очень острые чили",
+    "sentiment": "negative",
+    "topic": "еда"
+  },
+  {
+    "id": "25",
+    "review": "Очень сытные и вкусные супы",
+    "sentiment": "positive",
+    "topic": "еда"
+  },
+  {
+    "id": "26",
+    "review": "Пицца с тонким тестом",
+    "sentiment": "positive",
+    "topic": "пицца"
+  },
+  {
+    "id": "27",
+    "review": "Желатиновая пастила вкусная",
+    "sentiment": "positive",
+    "topic": "еда"
+  },
+  {
+    "id": "28",
+    "review": "Этот шоколад слишком горький для моего вкуса",
+    "sentiment": "negative",
+    "topic": "вкус шоколада"
+  },
+  {
+    "id": "29",
+    "review": "Паста аль денте",
+    "sentiment": "positive",
+    "topic": "еда"
+  },
+  {
+    "id": "30",
+    "review": "Очень ароматный сыр",
+    "sentiment": "positive",
+    "topic": "сыр"
+  },
+  {
+    "id": "31",
+    "review": "Мед оказался слишком густым",
+    "sentiment": "negative",
+    "topic": "качество продукта"
+  },
+  {
+    "id": "32",
+    "review": "Йогурт без сахара — не очень вкусно",
+    "sentiment": "negative",
+    "topic": "Йогурт без сахара"
+  },
+  {
+    "id": "33",
+    "review": "Макароны очень вкусные",
+    "sentiment": "positive",
+    "topic": "еда"
+  },
+  {
+    "id": "34",
+    "review": "Очень люблю этот соус",
+    "sentiment": "positive",
+    "topic": "соус"
+  },
+  {
+    "id": "35",
+    "review": "Пельмени вкусные",
+    "sentiment": "positive",
+    "topic": "еда"
+  },
+  {
+    "id": "36",
+    "review": "Масло не слишком жирное",
+    "sentiment": "positive",
+    "topic": "качество масла"
+  },
+  {
+    "id": "37",
+    "review": "Хлеб слишком жесткий",
+    "sentiment": "negative",
+    "topic": "качество хлеба"
+  },
+  {
+    "id": "38",
+    "review": "Кексы очень мягкие",
+    "sentiment": "positive",
+    "topic": "kekse"
+  },
+  {
+    "id": "39",
+    "review": "Зеленый чай",
+    "sentiment": "neutral",
+    "topic": "продукт"
+  },
+  {
+    "id": "40",
+    "review": "Огурцы в банке — супер",
+    "sentiment": "positive",
+    "topic": "Огурцы в банке"
+  },
+  {
+    "id": "41",
+    "review": "Печенье не совсем хрустящее",
+    "sentiment": "negative",
+    "topic": "качество печенья"
+  },
+  {
+    "id": "42",
+    "review": "Очень мягкая колбаса",
+    "sentiment": "positive",
+    "topic": "качество колбасы"
+  },
+  {
+    "id": "43",
+    "review": "Каша слишком густая",
+    "sentiment": "negative",
+    "topic": "качество продукта"
+  },
+  {
+    "id": "44",
+    "review": "Молоко не жирное",
+    "sentiment": "negative",
+    "topic": "качество молока"
+  },
+  {
+    "id": "45",
+    "review": "Салат с соусом вкусный",
+    "sentiment": "positive",
+    "topic": "еда"
+  },
+  {
+    "id": "46",
+    "review": "Шоколад с орехами оказался слишком сладким",
+    "sentiment": "negative",
+    "topic": "Шоколад"
+  },
+  {
+    "id": "47",
+    "review": "Очень вкусный сыр",
+    "sentiment": "positive",
+    "topic": "еда"
+  },
+  {
+    "id": "48",
+    "review": "Кофе слишком крепкий",
+    "sentiment": "negative",
+    "topic": "качество кофе"
+  },
+  {
+    "id": "49",
+    "review": "Хорошие овощи",
+    "sentiment": "positive",
+    "topic": "продукты питания"
+  },
+  {
+    "id": "50",
+    "review": "Творог очень жирный",
+    "sentiment": "negative",
+    "topic": "качество продукта"
+  }
+]
